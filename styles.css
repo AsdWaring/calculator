@@ -19,8 +19,18 @@
     flex-direction: column;
     height: 100px;
     width: 100px;
+    justify-content: space-around;
 }
 
 #display {
     background-color: white;
+}
+
+#calculator {
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    justify-content: space-around;
 }
