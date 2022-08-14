@@ -20,6 +20,7 @@
     height: 100px;
     width: 100px;
     justify-content: space-around;
+    margin: auto;
 }
 
 #display {
@@ -33,4 +34,5 @@
     width: 150px;
     background-color: black;
     justify-content: space-around;
+    margin: auto;
 }
